@@ -8,7 +8,7 @@ List of papers related to ML and DL model compression for embedded devices(Mobil
 - ### Pruning
 - ### Qunatization
 - ### Prunig and Quantization
-  - 2015 [url] https://arxiv.org/abs/1510.00149
+  - 2015 [https://arxiv.org/abs/1510.00149] (url)
 - ### Binarization
 - ### Low-Rank-Factorization
 - ### Knowledge Distilation
