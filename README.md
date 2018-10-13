@@ -2,7 +2,7 @@
 List of papers related to ML and DL model compression for embedded devices(Mobiles, IoT)
 
 ## Machine Learning
-- 2017 [Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things](http://proceedings.mlr.press/v70/kumar17a.html)
+- 2017 [Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things](http://proceedings.mlr.press/v70/kumar17a.html) 2015 NIPS
 
 ## Deep Learning
 - ### Pruning
